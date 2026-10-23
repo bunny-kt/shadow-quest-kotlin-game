@@ -20,7 +20,7 @@ Explore mysterious dungeon rooms, collect coins, discover treasures, avoid traps
 ## ▶️ How to Run
 
 1. Open the `Main.kt` file.
-2. Copy the code into [OneCompiler Kotlin](https://onecompiler.com/kotlin).
+2. Copy the code into [OneCompiler Kotlin](https://onecompiler.com/kotlin/45723xnt5).
 3. Click Run and follow the instructions.
 
 ## 📂 Project Files
